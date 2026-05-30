@@ -1,42 +1,33 @@
-# 👋 Hey, I’m Jay (aka JayMakesVideos)
+# Hey, I'm Jay
 
-I'm a teenage developer, tech enthusiast, and YouTube content creator who breaks and builds stuff just for fun. I love tinkering with systems, making tools people actually want to use, and finding clever workarounds where others see roadblocks.
+I'm a developer building clean, practical web software: polished interfaces, dependable flows, and production-ready sites.
 
-## 🧠 What I Do
+[Portfolio](https://jayb029.dev) · [GitHub](https://github.com/jayb029) · [X](https://x.com/Jayb029)
 
-* 🧑‍💻 Build apps, bots, and experiments — often open source
-* 🐧 Tinker with Linux, proxies, and bypassing restrictions (ethically, of course 😉)
-* 💡 Dream big, fail fast, and document the chaos
+## What I Build
 
-## 🔧 Projects I’m Proud Of
+- Web apps with real workflows for booking, buying, managing, publishing, and getting things done
+- Fast portfolio and marketing sites with responsive layouts and clear calls to action
+- Full-stack product features backed by clean data models, admin tools, and reliable integrations
 
-Even if some of these are still in progress, they mean a lot to me:
+## Tech I Use
 
-* **Custom Discord Bot** — Full moderation suite with OpenAI filtering, logging, leveling, and SQLite support
-* **My Proxy Tool** — Built for schools that *really* want to lock you out... too bad
-* **ChromeOS Fix Speedruns** — Not a repo, but my ability to fix school Chromebooks faster than IT is 100% real
-* **Exploring Obscure OSes** — Testing, reviewing, and sometimes breaking niche systems
-* **AutoCaption** - Making generating captions easier [here](https://github.com/jay-bman725/AutoCaption)
-
-## 🛆 Tech Stack
-
-```ts
-Languages: JavaScript · TypeScript · Python · Swift · HTML/CSS · SQL  
-Tools: React · Node.js · Flask · Unity · SQLite · Firebase · Docker · OpenAI  
-Dev Stuff: Git · GitHub Actions · Vercel · DigitalOcean · Linux · GitHub Desktop
+```txt
+TypeScript · React · Next.js · Node.js · Postgres · CSS
 ```
 
-## 🌟 Goals
+## Current Focus
 
-* Make something people *actually* use
-* Keep improving my coding, editing, and design skills
-* Open beta test my motivational goal tracker app
-* Finally get a lucid dream again
+- Designing interfaces that feel simple without losing the details
+- Building full-stack features that are easy to maintain
+- Improving performance, accessibility, and launch-readiness across projects
 
-## 🤝 Let’s Connect
+## GitHub Stats
 
-* ✉️ [Contact Form](https://www.jaysapps.com/contact)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayb029&show_icons=true&theme=transparent&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayb029&layout=compact&theme=transparent&hide_border=true)
 
-> “Make cool stuff. Break boring rules.” — probably me
+## Connect
+
+The easiest places to find my work are [jayb029.dev](https://jayb029.dev) and [github.com/jayb029](https://github.com/jayb029).
