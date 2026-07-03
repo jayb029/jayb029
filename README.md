@@ -24,8 +24,6 @@ TypeScript · React · Next.js · Node.js · Postgres · CSS
 
 ## GitHub Stats
 
-![Jay's GitHub stats](https://github-stats-extended.vercel.app/api?username=jayb029&show_icons=true&theme=transparent&hide_border=true)
-
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jayb029&layout=compact&theme=transparent&hide_border=true)
 
 ## Connect
